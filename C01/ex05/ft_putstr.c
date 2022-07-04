@@ -11,9 +11,7 @@ void	ft_putstr(char *str)
 	}
 }
 /*int	main()
-{
-	int numb;
-	
+{	
 	char str[] = "esta string -42";
-	numb = ft_putstr(str);
+	ft_putstr(str);
 }*/
